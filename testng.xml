@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Personal/AholdDelhaize/Documentation/Automation/test-automation-project/test-automation-maven/src/test/java/day47/LoginTest.java"><classes><class name="day47.LoginTest"><methods><include name="testLogin"/></methods></class></classes></test></suite>
